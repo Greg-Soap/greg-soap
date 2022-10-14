@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **node and mongodb**
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **emmanuelkingsley@gmail.com**
+- 📫 How to reach me **emmanuelkingsley36@gmail.com**
 
 - ⚡ Fun fact **Music Lover**
 
