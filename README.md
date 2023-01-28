@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Peter Osian</h1>
+<h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">An Aspiring MERN full stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greg-soap" alt="greg-soap" /></a> </p>
 
-<!-- - 🌱 I’m currently learning **node and mongodb** -->
+<!-- - 🌱 I’m currently learning **Typescript** -->
 
-- 📫 How to reach me **peterosian@gmail.com**
+- 📫 How to reach me **emmanuelkingsley36@gmail.com**
 
 - ⚡ Fun fact **Music Lover**
 
