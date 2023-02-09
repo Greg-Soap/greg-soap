@@ -1,4 +1,5 @@
-<h3 align="center">Welcome to my humble Profile</h3>
+<h1 align="center">Hello 👋 There</h1>
+<h3 align="center">Welcome to my Humble Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greg-soap&label=Profile%20views&color=0e75b6&style=flat" alt="greg-soap" /> </p>
 
@@ -8,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript and Relational Databases**
 
-- 💬 Ask me about **react and css**
+- 💬 Ask me about **Reactjs and Css**
 
 - ⚡ Fun fact **I Drown myself in Music while coding**
 
