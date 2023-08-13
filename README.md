@@ -1,10 +1,4 @@
 <h1 align="center">Hello 👋 There</h1>
-<h3 align="center">Welcome to my Humble Profile</h3>
-
-
-- 🔭 I’m currently working on **my Portfolio**
-
-- 🌱 I’m currently learning **Typescript and Relational Databases**
 
 - 💬 Ask me about **Reactjs and Css**
 
@@ -15,9 +9,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greg-soap&show_icons=true&locale=en&layout=compact" alt="greg-soap" /></p>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=greg-soap&" alt="greg-soap" /></p>
+
 
 
 
